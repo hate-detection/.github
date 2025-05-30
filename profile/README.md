@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-<!--
+🙋‍♀️ Welcome to hate-detection. This organisation serves as a collection for all the code I have written for my Masters Thesis. It is currently under development!
 
-**Here are some ideas to get you started:**
+👩‍💻 There are several repositories here. Some are private due to the Data Protection Policies. [Email me](mailto:shrutipriya44@gmail.com) to get details about the private repos.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🍿 I wonder what would Mirza Ghalib think if we brought him to life today and told him man has set foot on the moon, he would probably be sad—हमने चाँद को नापाक कर दिया
 
-This organisation is a one-stop shop for all the code for my CYM500 Project.
+### List of repos
+
+| Repo | Status | Objetive|
+|:------|:------|:------|
+|[preprocessing](https://github.com/hate-detection/preprocessing)|Private|Prepocessing Pipeline for dataset in 2 phases. Current staus Private due to Data Usage Policies and requirements by dataset authors.
