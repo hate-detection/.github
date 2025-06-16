@@ -12,4 +12,4 @@
 |:------|:------|:------|
 |[preprocessing](https://github.com/hate-detection/preprocessing)|Private|Prepocessing Pipeline for dataset in 2 phases. Current staus Private due to Data Usage Policies and requirements by dataset authors.
 |[training](https://github.com/hate-detection/training)|Public|Fine-tuning the BERT-based model MuRIL for Sentiment Analysis in code-mixed Hinglish. Currently under development. I will add code for training `LoRA` Adapters instead of the entire model.
-|[model-inference-ap](https://github.com/hate-detection/model-inference-api)|Public|Serving the model through API for inference.
+|[model-inference-api](https://github.com/hate-detection/model-inference-api)|Public|Serving the model through API for inference.
