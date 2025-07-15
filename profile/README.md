@@ -22,9 +22,9 @@ Here's a high-level layout of the project alongwith the implemented tech stack.
 
 ## List of repos
 
-| Repo | Status | Objetive|
-|:------|:------|:------|
-|[preprocessing](https://github.com/hate-detection/preprocessing)|Private|Prepocessing Pipeline for dataset in 2 phases. Current staus Private due to Data Usage Policies and requirements by dataset authors.
-|[training](https://github.com/hate-detection/training)|Public|Fine-tuning the BERT-based model MuRIL for Sentiment Analysis in code-mixed Hinglish. Currently under development. I will add code for training `LoRA` Adapters instead of the entire model.
-|[model-inference-api](https://github.com/hate-detection/model-inference-api)|Public|Serving the model through API for inference.
-|[boli-app](https://github.com/hate-detection/boli-app)|Public|Frontend web-application for Machine Learning Model.
+| Repo | Status | Tech Stack | Objective|
+|:------|:------|:-----------|:------|
+|[preprocessing](https://github.com/hate-detection/preprocessing)|Private|<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/> <img width="200" />|Prepocessing Pipeline for dataset in 2 phases. Current staus Private due to Data Usage Policies and requirements by dataset authors.
+|[training](https://github.com/hate-detection/training)|Public|<img src="https://skillicons.dev/icons?i=python" width="40" /> <img src="https://skillicons.dev/icons?i=pytorch" width="40" /> <img src="https://skillicons.dev/icons?i=sklearn" width="40" />|Fine-tuning the BERT-based model MuRIL for Sentiment Analysis in code-mixed Hinglish. Currently under development. I will add code for training `LoRA` Adapters instead of the entire model.
+|[model-inference-api](https://github.com/hate-detection/model-inference-api)|Public|<img src="https://skillicons.dev/icons?i=fastapi" width="40" /> <img src="https://skillicons.dev/icons?i=cloudflare" width="40" /> <img src="https://skillicons.dev/icons?i=postgres" width="40" />|Serving the model through API for inference.
+|[boli-app](https://github.com/hate-detection/boli-app)|Public|<img src="https://skillicons.dev/icons?i=nextjs" width="40" /> <img src="https://skillicons.dev/icons?i=vercel" width="40" /> <img src="https://skillicons.dev/icons?i=tailwind" width="40" />|Frontend web-application for Machine Learning Model.
