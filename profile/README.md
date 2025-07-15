@@ -1,18 +1,27 @@
-## Hi there 👋
+<h1 align="center">BOLI: Bad and Offensive Language Identification</h1>
+<p align="center">
+  <a href="#introduction">Introduction</a> •
+  <a href="#overview">Overview</a> •
+  <a href="#list-of-repos">List of Repos</a>
+</p>
 
-🙋‍♀️ Welcome to hate-detection. This organisation serves as a collection for all the code I have written for my Masters Thesis. It is currently under development!
+<br>
+
+# Introduction
+
+🙋‍♀️ Welcome to hate-detection. This organisation serves as a collection for all the code I have written for my Masters Thesis (MSc Cyber Security Module CYM500). It is currently under development!
 
 👩‍💻 There are several repositories here. Some will be private due to the Data Protection Policies. [Email me](mailto:shrutipriya44@gmail.com) to get details about the private repos.
 
 🍿 I wonder what would Mirza Ghalib think if we brought him to life today and told him man has set foot on the moon, he would probably be sad—हमने चाँद को नापाक कर दिया
 
-### Overview
+## Overview
 
-Here's a high-level layout of the project alongwith the implemented tech stack.
+Here's a high-level layout of the project alongwith the implemented tech stack. 
 
 ![High-level layout](./high-level-layout.png)
 
-### List of repos
+## List of repos
 
 | Repo | Status | Objetive|
 |:------|:------|:------|
