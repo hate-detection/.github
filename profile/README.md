@@ -6,6 +6,12 @@
 
 🍿 I wonder what would Mirza Ghalib think if we brought him to life today and told him man has set foot on the moon, he would probably be sad—हमने चाँद को नापाक कर दिया
 
+### Overview
+
+Here's a high-level layout of the project alongwith the implemented tech stack.
+
+![High-level layout](./high-level-layout.png)
+
 ### List of repos
 
 | Repo | Status | Objetive|
