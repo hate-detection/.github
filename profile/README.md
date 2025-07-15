@@ -1,4 +1,3 @@
-<h1 align="center">BOLI: Bad and Offensive Language Identification</h1>
 <p align="center">
   <a href="#introduction">Introduction</a> •
   <a href="#overview">Overview</a> •
