@@ -8,7 +8,7 @@
 
 # Introduction
 
-🙋‍♀️ Welcome to hate-detection. This organisation serves as a collection for all the code I have written for my Masters Thesis (MSc Cyber Security Module CYM500). It is currently under development!
+🙋‍♀️ Welcome to BOLI. This organisation serves as a collection for all the code I have written for my Masters Thesis (MSc Cyber Security Module CYM500). It is currently under development!
 
 👩‍💻 There are several repositories here. Some will be private due to the Data Protection Policies. [Email me](mailto:shrutipriya44@gmail.com) to get details about the private repos.
 
